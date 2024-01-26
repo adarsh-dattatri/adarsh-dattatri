@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RAG application as a private Knowledge Assistant](https://github.com/Predicon/complex-search.git)
 
-- 🌱 I’m currently learning **LLM, RAG and Algorithmic Trading**
+- 🌱 I’m currently learning **LLM, RAG, Algorithmic Trading and low latency data processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Predicon](https://github.com/Predicon)
 
