@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">Passionate about building high-value data intensive products and a recovering data scientist</h3>
 
-- 🔭 I’m currently working on [RAG application as a private Knowledge Assistant](https://github.com/Predicon/complex-search.git)
+- 🔭 I’m currently working on [Multimodal RAG](https://github.com/Predicon/complex-search.git)
 
 - 🌱 I’m currently learning **LLM, RAG, Algorithmic Trading and low latency data processing**
 
