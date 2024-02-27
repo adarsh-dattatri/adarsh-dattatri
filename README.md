@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Multimodal RAG](https://github.com/Predicon/complex-search.git)
 
-- 🌱 I’m currently learning **LLM, RAG, low latency data processing**
+- 🌱 I’m currently learning **LLM, RAG, low latency data processing, DevOps, MLOps, LLMOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Predicon](https://github.com/Predicon)
 
